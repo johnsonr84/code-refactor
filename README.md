@@ -15,7 +15,7 @@ Refactored an existing webpage for client to make it more accessible.
 Always leave the code you are editing a little cleaner than you found it!
 
 ##### Visuals
-<img src=""/>
+<img src="./assets/01-html-css-git-homework-demo.png"/>
 
 #### Dev Notes
 
